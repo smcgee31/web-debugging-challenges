@@ -1,0 +1,3 @@
+first ran npm install to install all dependencies.
+
+found and fixed app.get('/sighting', SightingCtrl.raed) where read was misspelled

@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
-var birdSchema = require('./BirdSchema')
+var birdSchema = require('./BirdSchema');
 
 var sightingSchema = new Schema({
   user: { type: Schema.Types.ObjectId, ref: 'User'},

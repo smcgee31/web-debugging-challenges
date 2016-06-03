@@ -1,0 +1,13 @@
+Challenge #1
+found ng-app was written without the = sign. fixed
+
+checked app.js for issues, found urlRouterProvider missing and added a .otherwise
+
+fixed the way that the .states were written, ie, closing parens in wrong place instead of colon.
+
+found ui-router... fixed it to say ui.router
+
+checked prouctService and productsCtrl, found and fixed... prouctService not included in productsCtrl parameters
+found missing closing curly bracket for .controller
+
+found view-container behind nav sidebar... added left margin to pull the view over to the right.

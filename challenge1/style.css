@@ -14,8 +14,10 @@ html, body {
 
 .view-container {
   text-align: center;
+  margin-left: 200px;
+
 }
 
 .view-container h1{
   margin-top: 0;
-} 
+}
